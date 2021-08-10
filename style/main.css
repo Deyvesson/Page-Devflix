@@ -46,7 +46,7 @@ header nav a:hover{
 
 .conteudo-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('./img/logo-js.jpeg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/logo-js.jpeg');
     height: 500px;
     background-size:100% 100%;
 
