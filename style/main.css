@@ -87,4 +87,22 @@ header nav a:hover{
     margin-right: 8px;
 }
 
-/*aula 6*/
+.container{
+    margin-left: 20px;
+}
+
+.conteudo-principal .container{
+    width: 70%;
+}
+
+.carrosel-titulos{
+    margin-top: 5px;
+}
+
+.box-filme{
+    width: 200px;
+    height: 300px;
+    display: block;
+}
+
+/*aula 7*/
